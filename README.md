@@ -1,5 +1,5 @@
-# CSE250b
-Projects and notes of CSE250b - Learning Algorithms Course
+# Course-Learning_Algorithms
+Projects and notes of CSE250b - Learning Algorithms
 1. Handwritten digit recognition using a Gaussian generative model
   - MNIST data from http://yann.lecun.com/exdb/mnist/index.html
   - model each class as a multivariate (784-dimensional) Gaussian
